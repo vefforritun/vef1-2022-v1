@@ -35,7 +35,12 @@ Skilaboð skulu innihalda:
 
 * slóð á verkefni keyrandi á Netlify
 * slóð á **private** GitHub repo fyrir verkefni. Dæmatímakennurum skal hafa verið boðið í repo. Notendanöfn þeirra eru:
-  * TBD
+  * `MarzukIngi`
+  * `Stimmikex`
+  * `brynjar13`
+  * `ofurtumi`
+  * `BjarniHaskoli`
+  * `Stulli888`
 
 ## Einkunn
 
